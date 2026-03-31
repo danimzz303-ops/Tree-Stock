@@ -11,3 +11,13 @@ Este es un proyecto universitario desarrollado en **Java** que utiliza una estru
 * `Producto.java`: Define el modelo del nodo del árbol.
 * `ArbolInventario.java`: Contiene la lógica de inserción, búsqueda y recorrido.
 * `Main.java`: Interfaz de menú para el usuario.
+## Evidencias de Ejecución
+
+### Menú Principal e Inserción
+![Menú](menu.png.png)
+
+### Inventario Ordenado (Inorden)
+![Inventario](inventario.png.png)
+
+### Búsqueda de Producto
+![Búsqueda](busqueda.png.png)
