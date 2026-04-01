@@ -34,3 +34,6 @@ public class ArbolInventario {
         }
     }
 }
+// PROYECTO: Árbol Binario de Búsqueda para Inventario
+// LÓGICA: Los IDs menores van a la izquierda y los mayores a la derecha.
+// MÉTODOS: Se usa recursividad para insertar y buscar, e Inorden para listar.
