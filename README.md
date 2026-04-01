@@ -21,3 +21,10 @@ Este es un proyecto universitario desarrollado en **Java** que utiliza una estru
 
 ### Búsqueda de Producto
 ![Búsqueda](busqueda.png.png)
+
+---
+## 🎥 Video de Sustentación
+Puedes ver la explicación detallada del código y el funcionamiento del sistema en el siguiente enlace:
+
+👉 [**Ver Video de Sustentación (Google Drive)**](https://drive.google.com/file/d/1vP2fmt7mdZPqYYdtKvfQ6BNVkYBemuzU/view?usp=sharing)
+---
